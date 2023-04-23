@@ -1,0 +1,19 @@
+==========
+Book Data
+==========
+Name nam3 = new Name ("Mike","Waz","Owski");
+Date reg3 = new Date(10,"July",2021);
+Date exp3 = new Date(10,"July",2022);
+Member mem3 = new Member(16100812,nam3,"Student",0,reg3,exp3,0,"Clear");
+libr.addMember(mem3);
+
+============
+Member Data
+============
+Catalog cat6 = new Catalog("Criminilogy",5, 12,25);
+Name auth6 = new Name("John","Doe","Lop");
+Date datPub6 = new Date(10,"July",2021);
+Date bor6 = new Date(0,null,0);
+Book book6 = new Book(6000001,"Guns and Roses",auth6,"Academic","Non-Fiction",
+                "Crimes and Death Cases",cat6,datPub6,"Available",bor6);
+libr.addBook(book6);
