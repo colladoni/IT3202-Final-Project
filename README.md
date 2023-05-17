@@ -15,8 +15,10 @@ Issue/Collect (Fine and Status)
 -------------
 Members:
 -------------
-Collado, Justin Rey 
-Velez, James Alexander
+Achas, Joshua Gabriel P.
+Collado, Justin Rey A.
+Parchaso, Jhon Joseph E.
+Potot, Rixielie Marie T.
 
 
 =========================
