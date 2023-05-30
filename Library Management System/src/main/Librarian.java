@@ -215,8 +215,8 @@ public class Librarian {
     }
         
     public static void main(String args[]){
-        Database Lib = new Database();
-        Member mem = new Member();
+        // Database Lib = new Database();
+        // Member mem = new Member();
         Librarian libr = new Librarian();
         
         Catalog cat1 = new Catalog("Computer",1, 2,25);
