@@ -9,6 +9,7 @@ public class Librarian {
     private final List<Member> nwMemberList = LibSystem.getColMember();
     private int librCode;
     private int librID;
+    
     public Librarian(){
         LibSystem = null;
         librCode = 0;
